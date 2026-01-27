@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Farhan Ahmed
 ### IT & Network Security Professional | Automation Enthusiast
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ilfarhanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ilfarhanahmed" />
+</p>
 
 [cite_start]I am a Vancouver-based Security Specialist with over 7 years of experience securing enterprise environments and optimizing operations through automation[cite: 2, 3]. [cite_start]Currently, I'm a Technical support specliast  at **Fortinet**, focusing on FortiManager, FortiAnalyzer, and FortiSOAR[cite: 10, 11].
 
