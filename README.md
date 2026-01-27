@@ -30,7 +30,7 @@ I am a Vancouver-based Security Specialist with over 7 years of experience secur
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilfarhanahmed&show_icons=true&theme=transparent)
 
 ### 📫 Get in Touch
-- **Email:** me@farhan.ch
+- **Website:** [farhan.ch](https://farhan.ch)
 - **LinkedIn:** [linkedin.com/in/ilfarhanahmed](https://linkedin.com/in/ilfarhanahmed)
 - **Location:** Vancouver, BC
 
