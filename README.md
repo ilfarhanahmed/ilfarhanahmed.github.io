@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Farhan Ahmed
 ### IT & Network Security Professional | Automation Enthusiast
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ilfarhanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ilfarhanahmed" />
