@@ -24,8 +24,7 @@ I am a Vancouver-based Security Specialist with over 7 years of experience secur
 - **Fortinet Certified Professional (FCP)** - Network Security
 - **Fortinet Certified Professional (FCP)** - Security Operations
 - **Fortinet NSE 6** - FortiSOAR
-- **CCNA** - Routing & Switching
-
+- **CCNA**
 ---
 
 ### 📊 GitHub Stats
