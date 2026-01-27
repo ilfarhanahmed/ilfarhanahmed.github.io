@@ -27,6 +27,11 @@ I am a Vancouver-based Security Specialist with over 7 years of experience secur
 - **CCNA**
 ---
 
+### 🌟 Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[FMG_Python](https://github.com/ilfarhanahmed/FMG_Python)** | **Automating FortiManager** tasks using Python and REST APIs to streamline network provisioning. | Python, REST API |
+
 ### 📊 GitHub Stats
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilfarhanahmed&show_icons=true&theme=transparent)
 
