@@ -15,13 +15,16 @@ I am a Vancouver-based Security Specialist with over 7 years of experience secur
 - **Infrastructure:** End-to-end IT deployment and secure multi-OS environment engineering.
 
 ### 🛠️ Tech Stack & Tools
-- **Security Platforms:** Fortinet (FCP Certified), Cisco (CCNA), SD-WAN, SOAR.
-- **Automation & Scripting:** REST APIs, Python/TCL Scripting, SQL.
-- **Protocols:** SAML SSO, IPsec, BGP, Routing & Switching.
-
+- **Platfomrs:** FortiGate, FortiManager, FortiAnalyzer, FortiSOAR.
+- **Automation & Scripting:** REST APIs, Python, TCL Scripting, SQL.
+- **Security Focus:** Log Analysis, IPsec, Firewall Management, Security Response and Automation.
+ 
 ### 🎓 Education & Certifications
-- **MSc Telecom Engineering** | Polytechnic University of Turin
-- **Fortinet Certified Professional (FCP)** - Network Security & Security Operations
+- **MSc Telecom Engineering** | Polytechnic University of Turin, Italy
+- **Diplôme d'ingénieur** | ENSIMAG - Grenoble INP, France
+- **Fortinet Certified Professional (FCP)** - Network Security
+- **Fortinet Certified Professional (FCP)** - Security Operations
+- **Fortinet NSE 6** - FortiSOAR
 - **CCNA** - Routing & Switching
 
 ---
