@@ -21,10 +21,10 @@ I am a Vancouver-based Security Specialist with over 7 years of experience secur
 ### 🎓 Education & Certifications
 - **MSc Telecom Engineering** | Polytechnic University of Turin, Italy
 - **Diplôme d'ingénieur** | ENSIMAG - Grenoble INP, France
-- **Fortinet Certified Professional (FCP)** - Network Security
-- **Fortinet Certified Professional (FCP)** - Security Operations
-- **Fortinet NSE 6** - FortiSOAR
-- **CCNA**
+- **Fortinet Certified Professional (FCP)** | Network Security
+- **Fortinet Certified Professional (FCP)** | Security Operations
+- **Fortinet NSE 6** | FortiSOAR
+- **CCNA** | Security, R&S
 
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack |
