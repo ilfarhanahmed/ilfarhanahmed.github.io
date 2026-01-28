@@ -28,10 +28,12 @@ I am a Vancouver-based Security Specialist with over 7 years of experience secur
 - **Fortinet NSE 6** | FortiSOAR
 - **CCNA** | Security, R&S
 
-### 🌟 Featured Projects
+### 🌟 Current Projects
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[FMG_Python](https://github.com/ilfarhanahmed/FMG_Python)** | **Automating FortiManager** tasks using Python and REST APIs to streamline network provisioning. | Python, REST API |
+| **[FMG_Python](https://github.com/ilfarhanahmed/FMG_Python)** | Automating FortiManager tasks using Python and REST APIs to streamline network provisioning. | Python, REST API |
+
 ---
 
 ### 📊 GitHub Stats
